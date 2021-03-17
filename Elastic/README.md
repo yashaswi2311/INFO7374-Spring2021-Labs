@@ -41,7 +41,7 @@ To test if it is running, open http://127.0.0.1:9200/
 
 If it is successful, it would show something like this :
 
-![Image of Elastic Running](https://imgur.com/hbNpbv6)
+![Image of Elastic Running](https://i.ibb.co/wsgLhym/elastic.png)
 
 Download Kibana
 
@@ -53,7 +53,7 @@ To test if it is running, open http://localhost:5601/
 
 If it is successful, it would show something like this :
 
-![Image of Kibana Running](https://imgur.com/bOb0xZd)
+![Image of Kibana Running](https://i.ibb.co/kc8wtpT/kibana.png)
 
 
 
