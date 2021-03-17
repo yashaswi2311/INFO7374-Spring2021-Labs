@@ -59,8 +59,8 @@ If it is successful, it would show something like this :
 
 ### More demos & useful resources
 
-- [[1 ElasticSearch 101 – a getting started tutorial]](http://joelabrahamsson.com/elasticsearch-101/)
-- [[2 Bool Query]](https://www.elastic.co/guide/en/elasticsearch/reference/6.8/query-dsl-bool-query.html)
-- [[3 Using Elasticsearch, Kibana, and Python to easily navigate]](https://clubhouse.io/developer-how-to/using-elasticsearch-kibana-and-python-to-easily-navigate/)
-- [[4 Elastic Search Tutorial]](https://tsh.io/blog/elasticsearch-tutorial/)
-- [[5 Python and Elastic Search]](https://code-maven.com/python-elasticsearch)
+- [ElasticSearch 101 – a getting started tutorial](http://joelabrahamsson.com/elasticsearch-101/)
+- [Bool Query](https://www.elastic.co/guide/en/elasticsearch/reference/6.8/query-dsl-bool-query.html)
+- [Using Elasticsearch, Kibana, and Python to easily navigate](https://clubhouse.io/developer-how-to/using-elasticsearch-kibana-and-python-to-easily-navigate/)
+- [Elastic Search Tutorial](https://tsh.io/blog/elasticsearch-tutorial/)
+- [Python and Elastic Search](https://code-maven.com/python-elasticsearch)
